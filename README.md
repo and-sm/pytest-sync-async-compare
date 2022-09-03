@@ -1,4 +1,4 @@
-# locator.hover() async vs. sync comparison using Playwright and pytest
+# locator.hover() async vs. sync comparison for 1000 elements using Playwright and pytest
 
 **Run server**: pip install -r requirements.txt && uvicorn main:app --reload
 
